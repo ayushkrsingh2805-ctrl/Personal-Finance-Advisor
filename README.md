@@ -77,8 +77,7 @@ Personal-Finance-Advisor/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/piyushlikhar782-sudo/Personal-Finance-Advisor.git
-cd Personal-Finance-Advisor
+git clone https://github.com/ayushkrsingh2805-ctrl/Personal-Finance-Advisor
 ```
 
 ### 2. Set Up Virtual Environment & Install Dependencies
